@@ -1,2 +1,2 @@
-# Speeech-ai
+# Speech-ai
 Памагити
